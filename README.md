@@ -5,3 +5,7 @@
 
 第二 
 导入模板提取路由模块
+app加载路由目录 use(router);
+express里 有router = express.Router();
+
+第三 按照功能业务提取划分控制器模块
