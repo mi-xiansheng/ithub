@@ -9,3 +9,9 @@ app加载路由目录 use(router);
 express里 有router = express.Router();
 
 第三 按照功能业务提取划分控制器模块
+
+第四 导入views 页面和public 静态资源
+
+五配置模板引擎 走通页面渲染
+
+六 处理客户端注册页面表单提交
